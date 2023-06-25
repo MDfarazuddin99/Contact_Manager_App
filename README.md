@@ -1,2 +1,2 @@
 # Contact_Manager_App
-Express Backend App Contact Manager
+Express and Node.js Backend App Contact Manager
